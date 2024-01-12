@@ -10,7 +10,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a iOS Stack Developer from Indonesia.
+I am a iOS Developer from Indonesia.
 
 - 🔭 I’m working as a iOS Engineer.
 - 🌱 Exploring SwiftUI.
